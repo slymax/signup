@@ -1,0 +1,10 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "validator": "^10.1.0",
+    "console-stamp": "^0.2.6",
+    "express": "^4.16.3"
+  }
+}
